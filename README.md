@@ -33,7 +33,7 @@
 
 ## 🎯 Hobbies & Interests
 <!-- List your hobbies or non-work interests -->
-- Exploring cool stuff build and tryna get a look into the thing I'm currently press
+- Exploring cool stuff build and tryna get a look into the hood of the machine I play Deltarune on.
 - Playing Chess (Despite bullet matches, we goin' back to rapid o(*^＠^*)o)
 - Playing niche games off the internet. (Man, what was that old game called something like "Alas")?
 
