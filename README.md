@@ -26,7 +26,7 @@
 <!-- Use skill icons to showcase your technologies -->
 <!-- Add or remove icons as needed: https://skillicons.dev -->
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,nodejs,expressjs,cpp,c,go,git,github,prisma,postgresql,qt&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,nodejs,expressjs,cpp,c,go,git,github,prisma,postgresql,qt,supabase&perline=8" />
 </p>
 
 ---
