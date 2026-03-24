@@ -17,8 +17,8 @@
 ## 🚧 Currently Working On
 <!-- Describe what you are currently focused on -->
 - Trying to look into how to make Web Scrappers Prolly?
-- Making more meaningful apps and maybe learn about infrastructure and scalibility in the future.
-- Learning: _Redis and Axios for making real time application._
+- Making more meaningful apps and maybe learn about infrastructure and scalibility in the future, while making my braindead ideas into creation in the present.
+- Learning: _Learning how real apps and stuff works on the backend._
 
 ---
 
@@ -26,7 +26,7 @@
 <!-- Use skill icons to showcase your technologies -->
 <!-- Add or remove icons as needed: https://skillicons.dev -->
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,nodejs,expressjs,cpp,c,go,git,github,prisma,postgresql,qt,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,nodejs,expressjs,cpp,c,go,git,github,prisma,postgresql,qt,supabase,fastapi,nestjs&perline=8" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <!-- List your hobbies or non-work interests -->
 - Exploring cool stuff build and tryna get a look into the hood of the machine I play Deltarune on.
 - Playing Chess (Despite bullet matches, we goin' back to rapid o(*^＠^*)o)
-- Playing niche games off the internet. (Man, what was that old game called something like "Alas")?
+- Playing niche games off the internet. (Man, that old 2000s flash` game called "ALIAS")?
 
 ---
 
